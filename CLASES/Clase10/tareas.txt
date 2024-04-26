@@ -1,0 +1,49 @@
+*DOCUMENTACION
+*REFACTORIZACION
+
+*ETIQUETAS A
+
+*IMAGENES PERSONALIZADAS
+*Detalles de productos
+
+*REFACTORIZAR Y ACOMODAR EL HEADER
+
+
+*<ul id="menu"> buscar productos en un ecommerce en esas categorias y agregarlas en una etiqueta a
+
+*AGREGAR FOOTER
+
+
+investigar h1
+html
+<h1 class="clipped">Mercado Libre</h1>
+
+css
+.clipped {
+    border: 0;
+    position: absolute;
+    z-index: -1;
+    clip: rect(0 0 0 0);
+    -webkit-clip-path: inset(50%);
+    clip-path: inset(50%);
+    display: block;
+    margin: 0 -1px -1px 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+
+* insertar un h1 en nuestra pagin y ocultarlo
+
+* familia de fuente externa
+
+* margenes del header en una sola linea
+
+
+CSS Peeper
+colorzilla
+https://chrome.google.com/webstore/detail/bhlhnicpbhignbdhedgjhgdocnmhomnp
+VisBug esta buena
+
+
+

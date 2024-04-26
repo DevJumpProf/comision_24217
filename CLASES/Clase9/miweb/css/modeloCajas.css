@@ -1,0 +1,46 @@
+.caja1{
+    width: 100px;
+    height:250px;
+    background-color: blue;
+    border: dotted 3px red;
+}
+
+.caja2{
+    width: 100px;
+    height:250px;
+    background-color: blue;
+    border-color: red yellow green violet;
+    border-width: 2px 10px 5px 10px;
+    border-style: solid double solid dashed;
+
+}
+
+
+
+p {   
+/*     margin-top : 75px ; */
+    width: 50px;
+    height: 150px; 
+    padding-left: 55px;
+     border: dashed 3px red;
+    background-color: yellow;
+    overflow: hidden;
+}
+
+.parrafo{
+    border: solid 1px green
+}
+
+
+h1{
+    border-top: solid 1px red;
+}
+
+
+.caja3{
+    width:800px;
+    height:800px;
+    background: red;
+    max-width:500px;
+    }
+    

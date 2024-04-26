@@ -1,0 +1,32 @@
+
+/* SELECTORES */
+
+
+/* selector - propiedad - valor */
+/* selector universal: Selecciona todos los elementos de HTML. */
+* {
+    margin: 10px; /*margin establece el margen para los cuatro lados*/
+    padding: 5px; /*padding establece el espacio de relleno*/
+/*     background-color: lightgreen; /*cambia el color de relleno*/ 
+    font-family: Verdana; /*cambia el tipo de letra*/
+}
+  
+/*  selector de etiqueta o tipo: Se utiliza para seleccionar una etiqueta específica */
+p {
+    color: blue;
+}
+
+/* selector de clase: Se utiliza agregando el atributo class a los elementos que queramos aplicarles estilos. 
+ */
+
+.estiloMiaMi{
+color: pink;
+background-color: black;
+}
+
+#tituloMiami{
+    color: aqua;
+}
+
+
+

@@ -1,0 +1,27 @@
+.uno{
+ /*    color: blue;
+    background-color: yellow;
+    border :solid 2px red ; */
+    font-size: 16px;
+    font-style: italic;
+    font-family: "Montserrat", sans-serif;
+}
+
+.dos{
+/*     color:#d51010; */
+    font-size: 1em;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+/*     background-color: #6C3483 ; */
+}
+
+/* div{
+    background-image: url("../img/messi.jpg");
+    background-size: contain;
+    object-fit: cover;
+    width: 400px;
+    height: 200px;
+    border :dashed 2px red
+} */

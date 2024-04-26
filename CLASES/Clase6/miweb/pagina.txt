@@ -1,0 +1,16 @@
+https://www.ole.com.ar/futbol-internacional/inter-miami-arranca-concachampions-rival-figuras-posibles-cruces-lionel-messi_0_TQgsSeTHXt.html
+
+
+
+TAREA INVESTIGACION E IMPLEMENTACION
+
+PICTURE
+FIGCAPTION
+
+agregar en la seccion conocenos un iframe mas
+
+spotify
+vimeo 
+
+
+investigar atributos de las etiquetas vistas

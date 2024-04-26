@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <fieldset>
+      <form action="" method="post">
+        <label for="nombre">Nombre</label>
+        <input type="text" name="nombre" id="nombre" required />
+        <br />
+        <br />
+        <label for="apellido">Apellido</label>
+        <input type="text" name="apellido" id="apellido" />
+        <br />
+        <br />
+        <label for="edad">Edad</label>
+        <input
+          type="number"
+          name="edad"
+          id="edad"
+          placeholder="tu edad"
+          value="18"
+        />
+        <br />
+        <br />
+        <label for="email">email</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Aca va tu email"
+        />
+        <br />
+        <br />
+        <label for="nac">Nacimiento</label>
+        <input type="date" name="nac" id="nac" />
+        <br />
+        <br />
+        <label for="perfil">Foto</label>
+        <input type="file" name="foto" id="foto" />
+        <br />
+        <br />
+        <label for="pass">Password</label>
+        <input type="password" name="pass" id="pass" />
+        <br />
+        <br />
+        <label for="reclamo">Hacenos tu reclamo</label>
+        <textarea name="reclamo" id="reclamo" cols="40" rows="20"></textarea>
+        <br />
+        <br />
+        <select name="pais" id="pais">
+          <option value="">Argentina</option>
+          <option value="">Francia</option>
+          <option value="">Croacia</option>
+        </select>
+        <input type="submit" value="Enviar" />
+        <input type="reset" value="Reset" />
+      </form>
+    </fieldset>
+  </body>
+</html>
