@@ -35,7 +35,7 @@ const botonEliminar = document.createElement("button")
 botonEliminar.textContent = "Eliminar"
 botonEliminar.addEventListener("click", ()=>{
     borrarPosteo(posteo.id)
-}) // ojo con esto
+}) //
 
 // crear boton para editar
 const botonEditar = document.createElement("button")
